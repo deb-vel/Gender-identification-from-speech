@@ -9,4 +9,11 @@ This repository contains:
 * The python program called _K-NN.py_
 * A _RunMe.cmd_ file to run the code. When running this, the plots will be displayed in new windows, when this happens close 
  the plot window for the program to continue running the rest.
+ 
+ ## Requirements
+* pandas
+* matplotlib
+* numpy
+* sklearn
+
 
